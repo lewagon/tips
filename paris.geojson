@@ -23,6 +23,7 @@
       "properties": {
         "name": "L'Alicheur",
         "address": "96 Rue Saint-Maur",
+        "website": "http://www.lalicheur.com"
         "marker-symbol": "restaurant"
       }
     }
