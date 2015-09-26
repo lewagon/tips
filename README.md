@@ -1,6 +1,4 @@
-# Cities
-
-- [Paris](paris.geojson)
+# [Paris](paris.geojson)
 
 ## Contributing
 
