@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.865542, 2.377524]
+        "coordinates": [2.377524, 48.865542]
       },
       "properties": {
         "title": "L'Alicheur",
