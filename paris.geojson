@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [48.865542, 2.377524]
+  },
+  "properties": {
+    "name": "L'Alicheur",
+    "type": "Lunch",
+    "address": "96 Rue Saint-Maur, 75011 Paris, France"
+  }
+}
