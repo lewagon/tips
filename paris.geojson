@@ -31,7 +31,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates"[2.3862538999999288, 48.8685945]
+        "coordinates": [2.3862538999999288, 48.8685945]
       },
       "properties" :{
         "name": "Dilia",
