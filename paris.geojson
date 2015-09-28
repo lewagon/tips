@@ -126,8 +126,21 @@
       },
       "properties" : {
         "name": "Aux Deux Amis",
-        "address": "45, rue Oberkampf, 75011 Paris",
+        "address": "45 rue Oberkampf, 75011 Paris",
         "descriptions": "Bonne franquette, tapas(3-12€) et vin le soir - Menu à 18-22€ le midi)",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3820249999999987, 48.86516]
+      },
+      "properties" : {
+        "name": "Freddie's Deli",
+        "address": "22 rue Crespin du Gast, 75011 Paris",
+        "descriptions": "Delicatessen, à l'américaine - Formules 11-13,5€ le midi)",
         "marker-symbol": "restaurant"
       }
     }
