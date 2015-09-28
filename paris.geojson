@@ -78,6 +78,19 @@
         "descriptions": "Pizzéria, antipastis - Formule à 13€)",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3663344999999936, 48.8645789]
+      },
+      "properties" : {
+        "name": "Paperboy",
+        "address": "137 rue Amelot, 75011 Paris",
+        "descriptions": "US healthy, sandwichs, salades, jus - Autour de 13€)",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
