@@ -91,6 +91,19 @@
         "descriptions": "US healthy, sandwichs, salades, jus - Autour de 13€)",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.376451299999985, 48.8667905]
+      },
+      "properties" : {
+        "name": "Thank You My Dear",
+        "address": "112 rue Saint Maur, 75011 Paris",
+        "descriptions": "Gluten Free, sandwichs, salades - Formule à 10€)",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
