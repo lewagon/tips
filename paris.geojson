@@ -26,6 +26,19 @@
         "description": "Cuisine asiatique sans friture - Plat du jour 8€",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates"[48.8685945, 2.3862538999999288]
+      },
+      "properties" :{
+        "name": "Dilia",
+        "address": "1 rue d'Eupatoria, 75020 Paris",
+        "descriptions": "Cuisine gastronomique, trattoria -  Menu à 16-19,5€ le midi (44-60€ le soir)",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
