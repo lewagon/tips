@@ -117,6 +117,19 @@
         "descriptions": "Spécialité de viande - Formule à 16€ le midi)",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.37186829999996, 48.8645978]
+      },
+      "properties" : {
+        "name": "Aux Deux Amis",
+        "address": "45, rue Oberkampf, 75011 Paris",
+        "descriptions": "Bonne franquette, tapas(3-12€) et vin le soir - Menu à 18-22€ le midi)",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
