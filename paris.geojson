@@ -104,6 +104,19 @@
         "descriptions": "Gluten Free, sandwichs, salades - Formule à 10€)",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.376059400000031, 48.8647467]
+      },
+      "properties" : {
+        "name": "Bloodies",
+        "address": "58 avenue de la République, 75011 Paris",
+        "descriptions": "Spécialité de viande - Formule à 16€ le midi)",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
