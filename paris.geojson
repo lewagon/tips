@@ -65,6 +65,19 @@
         "descriptions": "Pizza 'Al Taglio', petits antipastis et focaccia - Menu autour de 10€)",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3801158999999643, 48.8626856]
+      },
+      "properties" : {
+        "name": "L'Altra",
+        "address": "52 rue Saint Maur, 75011 Paris",
+        "descriptions": "Pizzéria, antipastis - Formule à 13€)",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
