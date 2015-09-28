@@ -33,11 +33,24 @@
         "type": "Point",
         "coordinates": [2.3862538999999288, 48.8685945]
       },
-      "properties" :{
+      "properties" : {
         "name": "Dilia",
         "address": "1 rue d'Eupatoria, 75020 Paris",
         "descriptions": "Cuisine gastronomique, trattoria -  Menu à 16-19,5€ le midi (44-60€ le soir)",
         "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.382024900000033, 48.8654569]
+      },
+      "properties" : {
+        "name": "Le Perchoir",
+        "address": "14 Rue Crespin du Gast, 75011 Paris",
+        "descriptions": "Rooftop sympa en été, mais un peu cher, cocktails et snacks",
+        "marker-symbol": "bar"
       }
     }
   ]
