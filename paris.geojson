@@ -143,6 +143,19 @@
         "descriptions": "Delicatessen, à l'américaine - Formules 11-13,5€ le midi)",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.371793700000012, 48.8643284]
+      },
+      "properties" : {
+        "name": "Epicerie du Verre Volé",
+        "address": "54, rue de la Folie Méricourt, 75011 Paris",
+        "descriptions": "Epicerie fine, sandwichs à composer ou pas - Sandwich : 5 à 7€)",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
