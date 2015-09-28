@@ -52,6 +52,19 @@
         "descriptions": "Rooftop sympa en été, mais un peu cher, cocktails et snacks",
         "marker-symbol": "bar"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3769905000000335, 48.8653928]
+      },
+      "properties" : {
+        "name": "Mamma Roma",
+        "address": "90 rue Oberkampf, 75011 Paris",
+        "descriptions": "Pizza 'Al Taglio', petits antipastis et focaccia - Menu autour de 10€)",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
