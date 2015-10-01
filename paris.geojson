@@ -26,6 +26,19 @@
         "description": "Cuisine asiatique sans friture - Plat du jour 8€",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.376991, 48.865406]
+      },
+      "properties": {
+        "name": "Mamma Roma",
+        "address": "90 rue Oberkampf",
+        "description": "Cuisine italienne - Pizza au kg, Focaccia",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
