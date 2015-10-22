@@ -39,6 +39,19 @@
         "description": "Cuisine italienne - Pizza au kg, Focaccia",
         "marker-symbol": "restaurant"
       }
+    },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3817190, 48.8661530]
+      },
+      "properties": {
+        "title": "Scoop me a Cookie",
+        "address": "7 rue Crespin du Gast",
+        "description": "Gros cookies",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
