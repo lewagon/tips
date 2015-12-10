@@ -57,7 +57,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [2.377194, 48.865680]
+        "coordinates": [2.377301, 48.865087]
       },
       "properties": {
         "title": "Picard",
@@ -70,7 +70,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [2.378517, 48.866162]
+        "coordinates": [2.378571, 48.866204]
       },
       "properties": {
         "title": "L'esprit Tchaï",
