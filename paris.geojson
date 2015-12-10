@@ -40,7 +40,7 @@
         "marker-symbol": "restaurant"
       }
     },
-     {
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -49,7 +49,33 @@
       "properties": {
         "title": "Scoop me a Cookie",
         "address": "7 rue Crespin du Gast",
-        "description": "Gros cookies",
+        "description": "Gros cookies - de 2,50€ à 4€ pièce",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.377301, 48.865087]
+      },
+      "properties": {
+        "title": "Picard",
+        "address": "51 avenue de la République",
+        "description": "Cuisine du monde en barquette surgelée - plat + dessert + boisson à partir de 5€",
+        "marker-symbol": "shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.378571, 48.866204]
+      },
+      "properties": {
+        "title": "L'esprit Tchaï",
+        "address": "115 rue Oberkampf",
+        "description": "Cuisine saine et naturelle - biryani à 7,95€",
         "marker-symbol": "restaurant"
       }
     }
