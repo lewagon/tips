@@ -78,6 +78,19 @@
         "description": "Cuisine saine et naturelle - biryani à 7,95€",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3752724, 48.8646381]
+      },
+      "properties": {
+        "title": "B&M BURGER",
+        "address": "82 Avenue Parmentier, 75011 Paris",
+        "description": "b&m est une enseigne de fast-good, proposant des burgers confectionnés à la demande et à base de produits frais.",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
