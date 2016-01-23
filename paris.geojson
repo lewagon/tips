@@ -135,19 +135,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3820249999999987, 48.86516]
-      },
-      "properties" : {
-        "name": "Freddie's Deli",
-        "address": "22 rue Crespin du Gast, 75011 Paris",
-        "descriptions": "Delicatessen, à l'américaine - Formules 11-13,5€ le midi)",
-        "marker-symbol": "restaurant"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [2.371793700000012, 48.8643284]
       },
       "properties" : {
