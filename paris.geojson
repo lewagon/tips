@@ -31,12 +31,38 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [2.376991, 48.865406]
+        "coordinates": [2.3862538999999288, 48.8685945]
       },
-      "properties": {
+      "properties" : {
+        "name": "Dilia",
+        "address": "1 rue d'Eupatoria, 75020 Paris",
+        "descriptions": "Cuisine gastronomique, trattoria -  Menu à 16-19,5€ le midi (44-60€ le soir)",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.382024900000033, 48.8654569]
+      },
+      "properties" : {
+        "name": "Le Perchoir",
+        "address": "14 Rue Crespin du Gast, 75011 Paris",
+        "descriptions": "Rooftop sympa en été, mais un peu cher, cocktails et snacks",
+        "marker-symbol": "bar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3769905000000335, 48.8653928]
+      },
+      "properties" : {
         "name": "Mamma Roma",
-        "address": "90 rue Oberkampf",
-        "description": "Cuisine italienne - Pizza au kg, Focaccia",
+        "address": "90 rue Oberkampf, 75011 Paris",
+        "descriptions": "Pizza 'Al Taglio', petits antipastis et focaccia - Menu autour de 10€)",
         "marker-symbol": "restaurant"
       }
     },
@@ -44,12 +70,12 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3817190, 48.8661530]
+        "coordinates": [2.3801158999999643, 48.8626856]
       },
-      "properties": {
-        "title": "Scoop me a Cookie",
-        "address": "7 rue Crespin du Gast",
-        "description": "Gros cookies - de 2,50€ à 4€ pièce",
+      "properties" : {
+        "name": "L'Altra",
+        "address": "52 rue Saint Maur, 75011 Paris",
+        "descriptions": "Pizzéria, antipastis - Formule à 13€)",
         "marker-symbol": "restaurant"
       }
     },
@@ -57,25 +83,12 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [2.377301, 48.865087]
+        "coordinates": [2.3663344999999936, 48.8645789]
       },
-      "properties": {
-        "title": "Picard",
-        "address": "51 avenue de la République",
-        "description": "Cuisine du monde en barquette surgelée - plat + dessert + boisson à partir de 5€",
-        "marker-symbol": "shop"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [2.378571, 48.866204]
-      },
-      "properties": {
-        "title": "L'esprit Tchaï",
-        "address": "115 rue Oberkampf",
-        "description": "Cuisine saine et naturelle - biryani à 7,95€",
+      "properties" : {
+        "name": "Paperboy",
+        "address": "137 rue Amelot, 75011 Paris",
+        "descriptions": "US healthy, sandwichs, salades, jus - Autour de 13€)",
         "marker-symbol": "restaurant"
       }
     },
@@ -83,13 +96,65 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [2.3752724, 48.8646381]
+        "coordinates": [2.376451299999985, 48.8667905]
       },
-      "properties": {
-        "title": "B&M BURGER",
-        "address": "82 Avenue Parmentier, 75011 Paris",
-        "description": "b&m est une enseigne de fast-good, proposant des burgers confectionnés à la demande et à base de produits frais.",
+      "properties" : {
+        "name": "Thank You My Dear",
+        "address": "112 rue Saint Maur, 75011 Paris",
+        "descriptions": "Gluten Free, sandwichs, salades - Formule à 10€)",
         "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.376059400000031, 48.8647467]
+      },
+      "properties" : {
+        "name": "Bloodies",
+        "address": "58 avenue de la République, 75011 Paris",
+        "descriptions": "Spécialité de viande - Formule à 16€ le midi)",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.37186829999996, 48.8645978]
+      },
+      "properties" : {
+        "name": "Aux Deux Amis",
+        "address": "45 rue Oberkampf, 75011 Paris",
+        "descriptions": "Bonne franquette, tapas(3-12€) et vin le soir - Menu à 18-22€ le midi)",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.371793700000012, 48.8643284]
+      },
+      "properties" : {
+        "name": "Epicerie du Verre Volé",
+        "address": "54, rue de la Folie Méricourt, 75011 Paris",
+        "descriptions": "Epicerie fine, sandwichs à composer ou pas - Sandwich : 5 à 7€)",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3792540, 48.8662720]
+      },
+      "properties" : {
+        "name": "L'impasse",
+        "address": "4, cité Griset, 75011 Paris",
+        "descriptions": "Pour boire un verre dans une ambiance cosy)",
+        "marker-symbol": "bar"
       }
     }
   ]
