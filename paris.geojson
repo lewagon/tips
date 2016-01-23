@@ -143,6 +143,19 @@
         "descriptions": "Epicerie fine, sandwichs à composer ou pas - Sandwich : 5 à 7€)",
         "marker-symbol": "restaurant"
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3792540, 48.8662720]
+      },
+      "properties" : {
+        "name": "L'impasse",
+        "address": "4, cité Griset, 75011 Paris",
+        "descriptions": "Pour boire un verre dans une ambiance cosy)",
+        "marker-symbol": "bar"
+      }
+    },
   ]
 }
