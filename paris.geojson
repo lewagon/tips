@@ -35,7 +35,7 @@
       },
       "properties": {
         "title": "L'Esprit Tchaï",
-        "address": " 115 Rue Oberkampf",
+        "address": "115 Rue Oberkampf",
         "description": "Produits bio, plats végétariens, gluten-free, plat + entrée ou dessert < 11€",
         "marker-symbol": "restaurant"
       }
@@ -76,6 +76,19 @@
         "name": "Mamma Roma",
         "address": "90 rue Oberkampf, 75011 Paris",
         "descriptions": "Pizza 'Al Taglio', petits antipastis et focaccia - Menu autour de 10€)",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.37537420000001, 48.86466360000001]
+      },
+      "properties": {
+        "title": "B&M",
+        "address": "82 avenue Parmentier",
+        "description": "Un de meilleurs burgers de Paris selon Konbini, autour de 14€ avec frites et boisson.",
         "marker-symbol": "restaurant"
       }
     },
