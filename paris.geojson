@@ -31,6 +31,19 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [2.378423200000043, 48.8659858]
+      },
+      "properties": {
+        "title": "L'Esprit Tchaï",
+        "address": " 115 Rue Oberkampf",
+        "description": "Produits bio, plats végétariens, gluten-free, plat + entrée ou dessert < 11€",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [2.3862538999999288, 48.8685945]
       },
       "properties" : {
