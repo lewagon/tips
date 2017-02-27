@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": ["45.52597949999999", "-73.59511370000001"]
+        "coordinates": [-73.59511370000001, 45.52597949999999]
       },
       "properties": {
         "title": "La Gare",
@@ -18,7 +18,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": ["45.5270740", "-73.5980520"]
+        "coordinates": [-73.5980520, 45.5270740]
       },
       "properties": {
         "name": "District Café",
@@ -31,7 +31,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": ["45.5270540", "-73.5969180"]
+        "coordinates": [-73.5969180, 45.5270540]
       },
       "properties": {
         "title": "La Panthère Verte / The Green Panther",
