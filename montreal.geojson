@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.59511370000001, 45.52597949999999]
+      },
+      "properties": {
+        "title": "La Gare",
+        "address": "5333 Avenue Casgrain #102, Montréal, QC H2T 1X6, Canada",
+        "marker-size": "large",
+        "marker-symbol": "building"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5980520, 45.5270740]
+      },
+      "properties": {
+        "name": "District Café",
+        "address": "83 Rue Saint Viateur E, Montréal, QC H2T 1A7, Canada",
+        "description": "Sandwich and Salad 7 to 10$",
+        "marker-symbol": "restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5969180, 45.5270540]
+      },
+      "properties": {
+        "title": "La Panthère Verte / The Green Panther",
+        "address": "160 Rue Saint Viateur E, Montréal, QC H2T 1A8, Canada",
+        "description": "Vegan Food",
+        "marker-symbol": "restaurant"
+      }
+    }
+  ]
+}
