@@ -39,6 +39,97 @@
         "description": "Vegan Food",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5952120, 45.5243050]
+      },
+      "properties": {
+        "title": "Boucherie Lawrence",
+        "address": "5237 Saint Laurent Boulevard, Montreal, QC , H2T 1S1, Canada",
+        "description": "Awesome meat sandwiches, closed on Mondays ;)",
+        "marker-symbol": "restaurant"
+      }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5936320, 45.5232530]
+      },
+      "properties": {
+        "title": "Boulangerie Guillaume Bakery",
+        "address": "5134 Boul St-Laurent, Montréal, QC H2T 1R8, Canada",
+        "description": "Millions breads and pastries and other sweet and salted delights",
+        "marker-symbol": "bakery"
+      } 
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5994030, 45.5254370]
+      },
+      "properties": {
+        "title": "Sushi JinJin",
+        "address": "27 Rue Saint Viateur O, Montréal, QC H2T 2K7, Canada",
+        "description": "Corean food and sushi",
+        "marker-symbol": "restaurant"
+      }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5993210, 45.5255160]
+      },
+      "properties": {
+        "title": "Comptoir 21",
+        "address": "21 Rue Saint Viateur O, Montréal, QC H2T 2K7, Canada",
+        "description": "Best fish & chips in town",
+        "marker-symbol": "restaurant"
+      }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5954260, 45.5246520]
+      },
+      "properties": {
+        "title": "Pizzeria Magpie",
+        "address": "16 Rue Maguire, Montréal, QC H2T 1B8, Canada",
+        "description": "Incredibly tasty Pizza",
+        "marker-symbol": "restaurant"
+      }   
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5981600, 45.5269330]
+      },
+      "properties": {
+        "title": "Brooklyn MTL",
+        "address": "71 Rue Saint Viateur E, Montréal, QC H2T 1A7, Canada",
+        "description": "Breakfast and lunch",
+        "marker-symbol": "restaurant"
+      }    
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5942060, 45.5258330]
+      },
+      "properties": {
+        "title": "Brooklyn MTL",
+        "address": "5269 Avenue Casgrain, Montréal, QC H2T 1X1, Canada",
+        "description": "Mexican restaurant serving cazuelitas. Lunch time: 12:00 pm - 2:00 pm. Close on Mondays",
+        "marker-symbol": "restaurant"
+      }    
     }
   ]
 }
