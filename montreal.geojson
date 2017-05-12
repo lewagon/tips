@@ -129,7 +129,46 @@
         "address": "5269 Avenue Casgrain, Montréal, QC H2T 1X1, Canada",
         "description": "Mexican restaurant serving cazuelitas. Lunch time: 12:00 pm - 2:00 pm. Close on Mondays",
         "marker-symbol": "restaurant"
-      }    
+      }
+      },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.59115640000005, 45.52512]
+      },
+      "properties": {
+        "title": "Bistro Rhum Café",
+        "address": "201 Avenue Laurier E, Montréal, QC H2T 3E6",
+        "description": "Coffee, sandwich, croissant & Bagel",
+        "marker-symbol": "cafe"
+      }
+      },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.59691800000002, 45.5270543]
+      },
+      "properties": {
+        "title": "Art Lounge MTL",
+        "address": "160, rue Saint-Viateur E, #108, Montréal, QC H2T 1A8",
+        "description": "Food, Coffee & Art",
+        "marker-symbol": "cafe"
+      }
+        },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.59691800000002, 45.5270543]
+      },
+      "properties": {
+        "title": "La Panthère Verte",
+        "address": "160 Rue Saint Viateur E, Montréal, QC H2T 1A8",
+        "description": "Vegan restaurant",
+        "marker-symbol": "restaurant"
+      }
     }
   ]
 }
