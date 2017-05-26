@@ -148,7 +148,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.59691800000002, 45.5270543]
+        "coordinates": [-73.597195, 45.526985]
       },
       "properties": {
         "title": "Art Lounge MTL",
@@ -156,7 +156,7 @@
         "description": "Food, Coffee & Art",
         "marker-symbol": "cafe"
       }
-        },
+      },
      {
       "type": "Feature",
       "geometry": {
@@ -169,6 +169,45 @@
         "description": "Vegan restaurant",
         "marker-symbol": "restaurant"
       }
+      },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5952772, 45.5229082]
+      },
+      "properties": {
+        "title": "Fairmont Bagel",
+        "address": "74 Avenue Fairmount O, Montréal, QC H2T 2M2",
+        "description": "Bagel",
+        "marker-symbol": "bakery"
+      }
+      },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.6003594, 45.524247]
+      },
+      "properties": {
+        "title": "Café Olimpico",
+        "address": "124 Rue Saint Viateur O, Montréal, QC H2T 2L1",
+        "description": "Typical italian Cafe",
+        "marker-symbol": "cafe"
+      }
+      },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.6003594, 45.524247]
+      },
+      "properties": {
+        "title": "St-Viateur Bagel",
+        "address": "263 Rue Saint Viateur O, Montréal, QC H2V 1Y1",
+        "description": "Best Bagel in Town",
+        "marker-symbol": "bakery"
+      } 
     }
   ]
 }
