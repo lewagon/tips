@@ -39,6 +39,175 @@
         "description": "Vegan Food",
         "marker-symbol": "restaurant"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5952120, 45.5243050]
+      },
+      "properties": {
+        "title": "Boucherie Lawrence",
+        "address": "5237 Saint Laurent Boulevard, Montreal, QC , H2T 1S1, Canada",
+        "description": "Awesome meat sandwiches, closed on Mondays ;)",
+        "marker-symbol": "restaurant"
+      }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5936320, 45.5232530]
+      },
+      "properties": {
+        "title": "Boulangerie Guillaume Bakery",
+        "address": "5134 Boul St-Laurent, Montréal, QC H2T 1R8, Canada",
+        "description": "Millions breads and pastries and other sweet and salted delights",
+        "marker-symbol": "bakery"
+      } 
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5994030, 45.5254370]
+      },
+      "properties": {
+        "title": "Sushi JinJin",
+        "address": "27 Rue Saint Viateur O, Montréal, QC H2T 2K7, Canada",
+        "description": "Corean food and sushi",
+        "marker-symbol": "restaurant"
+      }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5993210, 45.5255160]
+      },
+      "properties": {
+        "title": "Comptoir 21",
+        "address": "21 Rue Saint Viateur O, Montréal, QC H2T 2K7, Canada",
+        "description": "Best fish & chips in town",
+        "marker-symbol": "restaurant"
+      }  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5954260, 45.5246520]
+      },
+      "properties": {
+        "title": "Pizzeria Magpie",
+        "address": "16 Rue Maguire, Montréal, QC H2T 1B8, Canada",
+        "description": "Incredibly tasty Pizza",
+        "marker-symbol": "restaurant"
+      }   
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5981600, 45.5269330]
+      },
+      "properties": {
+        "title": "Brooklyn MTL",
+        "address": "71 Rue Saint Viateur E, Montréal, QC H2T 1A7, Canada",
+        "description": "Breakfast and lunch",
+        "marker-symbol": "restaurant"
+      }    
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5942060, 45.5258330]
+      },
+      "properties": {
+        "title": "Maria Bonita",
+        "address": "5269 Avenue Casgrain, Montréal, QC H2T 1X1, Canada",
+        "description": "Mexican restaurant serving cazuelitas. Lunch time: 12:00 pm - 2:00 pm. Close on Mondays",
+        "marker-symbol": "restaurant"
+      }
+      },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.59115640000005, 45.52512]
+      },
+      "properties": {
+        "title": "Bistro Rhum Café",
+        "address": "201 Avenue Laurier E, Montréal, QC H2T 3E6",
+        "description": "Coffee, sandwich, croissant & Bagel",
+        "marker-symbol": "cafe"
+      }
+      },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.597195, 45.526985]
+      },
+      "properties": {
+        "title": "Art Lounge MTL",
+        "address": "160, rue Saint-Viateur E, #108, Montréal, QC H2T 1A8",
+        "description": "Food, Coffee & Art",
+        "marker-symbol": "cafe"
+      }
+      },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.59691800000002, 45.5270543]
+      },
+      "properties": {
+        "title": "La Panthère Verte",
+        "address": "160 Rue Saint Viateur E, Montréal, QC H2T 1A8",
+        "description": "Vegan restaurant",
+        "marker-symbol": "restaurant"
+      }
+      },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5952772, 45.5229082]
+      },
+      "properties": {
+        "title": "Fairmont Bagel",
+        "address": "74 Avenue Fairmount O, Montréal, QC H2T 2M2",
+        "description": "Bagel",
+        "marker-symbol": "bakery"
+      }
+      },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.6003594, 45.524247]
+      },
+      "properties": {
+        "title": "Café Olimpico",
+        "address": "124 Rue Saint Viateur O, Montréal, QC H2T 2L1",
+        "description": "Typical italian Cafe",
+        "marker-symbol": "cafe"
+      }
+      },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.6003594, 45.524247]
+      },
+      "properties": {
+        "title": "St-Viateur Bagel",
+        "address": "263 Rue Saint Viateur O, Montréal, QC H2V 1Y1",
+        "description": "Best Bagel in Town",
+        "marker-symbol": "bakery"
+      } 
     }
   ]
 }
