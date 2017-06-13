@@ -208,6 +208,45 @@
         "description": "Best Bagel in Town",
         "marker-symbol": "bakery"
       } 
+      },
+      {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.59528, 45.523002]
+      },
+      "properties": {
+        "title": "Drogheria Fine",
+        "address": "68 Avenue Fairmount O, Montréal, QC H2T 2M2",
+        "description": "Pasta and other italian dishes. Take-out only.",
+        "marker-symbol": "grocery"
+      } 
+      },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.594897, 45.523061]
+      },
+      "properties": {
+        "title": "Kem Coba",
+        "address": "60 Avenue Fairmount O, Montréal, QC H2T 2M2",
+        "description": "Best ice cream ever",
+        "marker-symbol": "ice-cream"
+      }
+      },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.589925, 45.526567]
+      },
+      "properties": {
+        "title": "Marché Laurier",
+        "address": "377 Avenue Laurier E, Montréal, QC H2T 1G7",
+        "description": "Little grocery store where you can find take-out food: great choice of salads & sandwiches",
+        "marker-symbol": "grocery"
+      } 
     }
   ]
 }
